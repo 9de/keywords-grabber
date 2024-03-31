@@ -1,6 +1,4 @@
-# File Reader
-
-File Reader is a simple C++ program designed for educational purposes. It allows users to read the contents of a single file or all files within a selected folder. It provides a platform-independent way to browse and read files using native file dialogs.
+Keywords Grabber is a straightforward C++ program crafted for educational purposes. It enables users to peruse the contents of either a single file or all files within a designated folder, extracting lines containing specified keywords.
 
 ## Features
 
@@ -21,19 +19,19 @@ File Reader is a simple C++ program designed for educational purposes. It allows
 1. Clone the repository:
 
     ```
-    git clone https://github.com/9de/file-reader.git
+    git clone https://github.com/9de/keywords-grabber.git
     ```
 
 2. Compile the program:
 
     ```
-    g++ main.cpp -o file-reader -std=c++11
+    g++ main.cpp -o keywordsgrabber -std=c++11
     ```
 
 3. Run the executable:
 
     ```
-    ./file-reader
+    ./keywordsgrabber
     ```
 
 4. Follow the on-screen instructions to choose between reading a single file or all files in a folder.
